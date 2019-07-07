@@ -1,4 +1,3 @@
-
 auto();
 
 var window = floaty.window(
